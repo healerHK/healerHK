@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/pixel-ai-lab-animated.gif" alt="Animated pixel F1 coding banner" width="100%" />
 
-  <h1>healerHK</h1>
+  <h1>Thanh Y Nguyen</h1>
 
   <p>
     <b>AI Engineering · Full-Stack Development · Intelligent Systems</b><br />
@@ -14,8 +14,6 @@
 ## About me
 
 I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into practical software. My work spans AI engineering, full-stack development, and intelligent systems, with a strong interest in open-source software and trustworthy AI. I believe continuous learning, experimentation, and collaboration are the foundations of meaningful innovation.
-
-> "We are what we repeatedly do. Excellence, then, is not an act but a habit." — Often attributed to Aristotle
 
 
 ## Project tags
