@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="./assets/pixel-ai-lab.svg" alt="Pixel 2D AI lab banner" width="100%" />
+  <img src="./assets/pixel-ai-lab-animated.gif" alt="Animated pixel 2D AI lab background" width="100%" />
 
-  <h1>Thành Ý Nguyen</h1>
-
-  <p>
-    <b>AI Engineer · Full-Stack Developer · Research Builder</b><br />
-    Building agentic AI, RAG systems, geospatial intelligence and production-ready web applications.
-  </p>
+  <h1>healerHK</h1>
 
   <p>
-    <a href="mailto:ynguyenhk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ynguyenhk%40gmail.com-22d3ee?style=for-the-badge&labelColor=0f172a"></a>
-    <a href="https://www.linkedin.com/in/thanh-y-nguyen-803a6726a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thành%20Ý%20Nguyen-a78bfa?style=for-the-badge&labelColor=0f172a"></a>
-    <img alt="Location" src="https://img.shields.io/badge/QLD-Australia-34d399?style=for-the-badge&labelColor=0f172a">
+    <b>AI Engineering · Full-Stack Development · Intelligent Systems</b><br />
+    Building practical software from ambitious ideas.
   </p>
 </div>
 
@@ -19,15 +13,15 @@
 
 ## About me
 
-I build AI-assisted software that connects research, product engineering and real-world workflows. My work spans **agentic AI**, **retrieval-augmented generation**, **citation-grounded research tools**, **geospatial AI**, and **full-stack web systems**.
+I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into practical software. My work spans AI engineering, full-stack development, and intelligent systems, with a strong interest in open-source software and trustworthy AI. I believe continuous learning, experimentation, and collaboration are the foundations of meaningful innovation.
 
-I care about systems that are useful beyond demos: clean UX, reliable APIs, searchable knowledge, explainable outputs, and practical deployment.
+> "We are what we repeatedly do. Excellence, then, is not an act but a habit." — Often attributed to Aristotle
 
 ```txt
-current focus  -> agentic AI · RAG · knowledge graphs · research tooling
+current focus  -> AI engineering · RAG · agentic systems · trustworthy AI
 engineering    -> Python · FastAPI · Django · React · TypeScript · PostgreSQL/PostGIS
 ai/ml          -> LLM workflows · embeddings · ChromaDB · TensorFlow · scikit-learn · Gemini API
-product style  -> evidence-first, privacy-aware, recruiter-readable, user-centered
+builder style  -> practical, experimental, open-source minded, collaboration-first
 ```
 
 ## Featured work
@@ -88,6 +82,24 @@ A private operations platform built for a small cattle-farm business in Vietnam,
 
 > Source code and business data are private. The project is presented here at product, workflow and technical-stack level only.
 
+### EventApp — Simple event management web app
+**Public personal project**
+
+A lightweight full-stack web application project focused on event-management workflows and modern frontend tooling.
+
+- Demonstrates practical web application structure, routing, UI work and build setup.
+- Useful as a smaller project showing breadth beyond AI-only systems.
+- Stack: `Laravel`, `Vite`, `Tailwind CSS`, `JavaScript`.
+
+### Face Detect — Smart-home IoT camera experiment
+**Public personal project**
+
+A computer-vision experiment for camera-based face detection, designed around smart-home / Raspberry Pi style use cases.
+
+- Explores practical AI/vision integration for home automation and edge-device workflows.
+- Relevant to IoT, camera input, lightweight inference and Raspberry Pi 5 experimentation.
+- Stack: `Python`, `OpenCV / computer vision`, `IoT`, `Raspberry Pi`.
+
 ## Technical toolbox
 
 <p>
@@ -103,15 +115,8 @@ A private operations platform built for a small cattle-farm business in Vietnam,
   <img src="https://img.shields.io/badge/ChromaDB-0f172a?style=for-the-badge&logoColor=f472b6" />
   <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
   <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-0f172a?style=for-the-badge&logo=raspberrypi&logoColor=f43f5e" />
 </p>
-
-## What I bring to a team
-
-- **AI engineering mindset:** I can turn LLM/RAG/agentic concepts into working applications with APIs, data flow and UI.
-- **Full-stack delivery:** I work across backend, frontend, databases, Docker and deployment-oriented project structure.
-- **Research depth:** I like evidence, citations, knowledge graphs and systems that help people reason better.
-- **Industry experience:** I have worked on private company projects where confidentiality, setup reliability and product workflow matter.
-- **Builder energy:** I keep shipping personal systems, research prototypes and practical tools instead of only small tutorials.
 
 ## Confidentiality note
 
