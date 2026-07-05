@@ -82,18 +82,6 @@ I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into prac
   <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=ff6c37" />
 </p>
 
-### Research workflow
-<p>
-  <img src="https://img.shields.io/badge/Literature%20Review-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Academic%20Writing-0f172a?style=for-the-badge&logo=googledocs&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/Citation%20Management-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/PyMuPDF-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-0f172a?style=for-the-badge&logo=google&logoColor=4285f4" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-0f172a?style=for-the-badge&logo=openai&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Gemini%20API-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
-</p>
-
 ## Contribution dashboard
 
 <div align="center">
