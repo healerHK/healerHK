@@ -77,14 +77,16 @@ An AI-assisted admissions and subject-combination advisory system for Vietnamese
 > Source code is private. The project is highlighted here only at product/architecture level.
 
 ### Cattle Farm Management System — Business operations web app
-**Local/private project**
+**Private business project · small cattle farm in Vietnam**
 
-A Vietnamese cattle-farm operations system for inventory, cattle lots, finance, customer cota settlement, reporting and role-based workflows.
+A private operations platform built for a small cattle-farm business in Vietnam, covering inventory, cattle lots, finance, customer cota settlement, reporting and role-based workflows.
 
 - Built a Dockerized full-stack app with Django REST Framework, PostgreSQL, React, TypeScript and PDF reporting.
-- Designed around real business workflows: lot management, warehouse movement, finance records, dashboard/reporting and customer settlement.
-- Focused on replacing spreadsheet-heavy processes with a maintainable internal web system.
+- Designed around real business workflows used by a farm operator: lot management, warehouse movement, finance records, dashboard/reporting and customer settlement.
+- Focused on replacing spreadsheet-heavy processes with a maintainable internal web system for non-technical business users.
 - Stack: `Django`, `DRF`, `PostgreSQL`, `React`, `TypeScript`, `Docker`, `ReportLab`.
+
+> Source code and business data are private. The project is presented here at product, workflow and technical-stack level only.
 
 ## Technical toolbox
 
