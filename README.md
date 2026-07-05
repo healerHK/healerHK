@@ -17,12 +17,6 @@ I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into prac
 
 > "We are what we repeatedly do. Excellence, then, is not an act but a habit." — Often attributed to Aristotle
 
-```txt
-current focus  -> AI engineering · RAG · agentic systems · trustworthy AI
-engineering    -> Python · FastAPI · Django · React · TypeScript · PostgreSQL/PostGIS
-ai/ml          -> LLM workflows · embeddings · ChromaDB · TensorFlow · scikit-learn · Gemini API
-builder style  -> practical, experimental, open-source minded, collaboration-first
-```
 
 ## Project tags
 
@@ -39,6 +33,84 @@ builder style  -> practical, experimental, open-source minded, collaboration-fir
 </div>
 
 > Click a tag to jump into a compact project card. Public repositories are linked inside each card; private/company work is summarized without exposing source code, credentials, datasets, or confidential implementation details.
+
+
+## Technical toolbox
+
+### Core languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+</p>
+
+### AI engineering
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=semanticweb&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=googlegemini&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=sparkfun&logoColor=f472b6" />
+  <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-111827?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
+</p>
+
+### Full-stack development
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=postman&logoColor=ff6c37" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572b6" />
+</p>
+
+### Data, DevOps & tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/PostGIS-111827?style=for-the-badge&logo=postgresql&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479a1" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=dc382d" />
+  <img src="https://img.shields.io/badge/Celery-111827?style=for-the-badge&logo=celery&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=ff6c37" />
+</p>
+
+### Research workflow
+<p>
+  <img src="https://img.shields.io/badge/Literature%20Review-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Academic%20Writing-0f172a?style=for-the-badge&logo=googledocs&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/Citation%20Management-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/PyMuPDF-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-0f172a?style=for-the-badge&logo=google&logoColor=4285f4" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-0f172a?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Gemini%20API-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
+</p>
+
+## Contribution dashboard
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=healerHK&theme=radical&hide_border=true&background=0D1117&ring=F43F5E&fire=F97316&currStreakLabel=F472B6&sideLabels=22D3EE&dates=94A3B8" alt="GitHub streak summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=healerHK&theme=radical" alt="GitHub stats" width="48%" />
+</div>
+
+## Confidentiality note
+
+Some of my strongest work is in private repositories because it was built for companies, clients or sensitive business workflows. I do **not** publish confidential source code, credentials, datasets or internal implementation details. Public summaries focus on architecture, product value, stack and responsibilities.
+
+<div align="center">
+  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="100%" />
+  <p><b>Open to AI engineering, full-stack development, research assistant and applied AI opportunities.</b></p>
+</div>
 
 ## Project cards
 
@@ -83,45 +155,3 @@ builder style  -> practical, experimental, open-source minded, collaboration-fir
 **Public repo:** [healerHK/Face_detect](https://github.com/healerHK/Face_detect)  
 **Why it matters:** practical computer-vision experiment for camera-based face detection, smart-home/IoT workflows and Raspberry Pi 5 style edge-device exploration.  
 **Stack:** `Python` · `OpenCV` · `face_recognition` · `pyttsx3` · `IoT` · `Raspberry Pi`
-
-## Technical toolbox
-
-### Programming Languages
-`Python` · `TypeScript` · `JavaScript` · `PHP` · `C/C++` · `SQL`
-
-### AI & Machine Learning
-`Large Language Models (LLMs)` · `Retrieval-Augmented Generation (RAG)` · `Agentic AI` · `Prompt Engineering` · `Vector Databases (ChromaDB)` · `Knowledge Graphs` · `TensorFlow` · `Keras` · `scikit-learn` · `CNN` · `Random Forest`
-
-### Backend Development
-`FastAPI` · `Django` · `REST APIs` · `Laravel` · `HTMX`
-
-### Frontend Development
-`React` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript`
-
-### Databases
-`PostgreSQL` · `PostGIS` · `MySQL` · `ChromaDB`
-
-### DevOps & Cloud
-`Docker` · `Kubernetes` · `Git` · `Redis` · `Celery` · `AWS` · `Azure`
-
-### Research & Academic Tools
-`Literature Review` · `Academic Writing` · `IEEE Formatting` · `Citation Management` · `Obsidian Knowledge Graph` · `PyMuPDF`
-
-### Tools
-`VS Code` · `GitHub` · `Postman` · `Google AI Studio` · `OpenAI API` · `Gemini API`
-
-## Contribution dashboard
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=healerHK&theme=radical&hide_border=true&background=0D1117&ring=F43F5E&fire=F97316&currStreakLabel=F472B6&sideLabels=22D3EE&dates=94A3B8" alt="GitHub streak summary" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=healerHK&theme=radical" alt="GitHub stats" width="48%" />
-</div>
-
-## Confidentiality note
-
-Some of my strongest work is in private repositories because it was built for companies, clients or sensitive business workflows. I do **not** publish confidential source code, credentials, datasets or internal implementation details. Public summaries focus on architecture, product value, stack and responsibilities.
-
-<div align="center">
-  <img src="./assets/pixel-divider.svg" alt="pixel divider" width="100%" />
-  <p><b>Open to AI engineering, full-stack development, research assistant and applied AI opportunities.</b></p>
-</div>
