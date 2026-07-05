@@ -114,7 +114,7 @@ builder style  -> practical, experimental, open-source minded, collaboration-fir
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=healerHK&theme=radical&hide_border=true&background=0D1117&ring=F43F5E&fire=F97316&currStreakLabel=F472B6&sideLabels=22D3EE&dates=94A3B8" alt="GitHub streak summary" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=healerHK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=healerHK&theme=radical" alt="GitHub stats" width="48%" />
 </div>
 
 ## Confidentiality note
