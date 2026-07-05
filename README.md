@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pixel-ai-lab-animated.gif" alt="Animated pixel 2D AI lab background" width="100%" />
+  <img src="./assets/pixel-ai-lab-animated.gif" alt="Animated pixel F1 coding banner" width="100%" />
 
   <h1>healerHK</h1>
 
