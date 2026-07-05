@@ -24,99 +24,98 @@ ai/ml          -> LLM workflows · embeddings · ChromaDB · TensorFlow · sciki
 builder style  -> practical, experimental, open-source minded, collaboration-first
 ```
 
-## Featured work
+## Project tags
 
+<div align="center">
+  <a href="#project-researchai"><img src="./assets/project-tags/researchai.svg" alt="ResearchAI project tag" width="31%" /></a>
+  <a href="#project-teaching-sim"><img src="./assets/project-tags/teaching-sim.svg" alt="Teaching Agent Simulator project tag" width="31%" /></a>
+  <a href="#project-coppercoreai"><img src="./assets/project-tags/coppercoreai.svg" alt="CopperCoreAI project tag" width="31%" /></a>
+  <br />
+  <a href="#project-ts10-healer"><img src="./assets/project-tags/ts10-healer.svg" alt="ts10_Healer project tag" width="31%" /></a>
+  <a href="#project-cow-system"><img src="./assets/project-tags/cow-system.svg" alt="Cattle Farm Management System project tag" width="31%" /></a>
+  <a href="#project-eventapp"><img src="./assets/project-tags/eventapp.svg" alt="EventApp project tag" width="31%" /></a>
+  <br />
+  <a href="#project-face-detect"><img src="./assets/project-tags/face-detect.svg" alt="Face Detect IoT project tag" width="31%" /></a>
+</div>
+
+> Click a tag to jump into a compact project card. Public repositories are linked inside each card; private/company work is summarized without exposing source code, credentials, datasets, or confidential implementation details.
+
+## Project cards
+
+<a id="project-researchai"></a>
 ### ResearchAI — Evidence-centered human-AI research environment
-**Public repository:** [healerHK/ResearchAI](https://github.com/healerHK/ResearchAI)
+**Public repo:** [healerHK/ResearchAI](https://github.com/healerHK/ResearchAI)  
+**Why it matters:** shows applied AI product thinking: RAG, evidence verification, citation support, Obsidian knowledge graphs and agentic research assistance in one workflow.  
+**Stack:** `FastAPI` · `React` · `TypeScript` · `ChromaDB` · `RAG` · `Obsidian` · `Gemini/OpenAI-compatible providers`
 
-ResearchAI is a Chrome Extension + FastAPI platform for researchers who want to write papers themselves while using AI to read, retrieve, verify, cite and organize evidence.
-
-- Built a researcher-in-the-loop workflow for citation-grounded writing support.
-- Implemented PDF ingestion, semantic search, citation recommendation and Obsidian knowledge-graph export.
-- Added a supervisor-led agentic assistant for writing, citation, literature-review, structure and research-gap workflows.
-- Stack: `FastAPI`, `React`, `TypeScript`, `ChromaDB`, `RAG`, `Obsidian`, `Gemini/OpenAI-compatible providers`.
-
+<a id="project-teaching-sim"></a>
 ### AI Agent Teaching Method Simulator — Generative-agent research prototype
-**Private research project**
+**Private research project**  
+**Why it matters:** explores how virtual teacher/student agents can simulate classroom methods before real-world trials, including engagement, retention, misconceptions and subgroup analysis.  
+**Stack:** `Python` · `Generative agents` · `Education AI` · `Simulation` · `Statistical analysis`
 
-A simulation framework for evaluating teaching methods with virtual student and teacher agents before real-world classroom trials.
-
-- Models classroom interactions between teacher agents and diverse student profiles.
-- Supports instructional strategies such as flipped classroom, direct instruction, inquiry-based, project-based, problem-based, collaborative and game-based learning.
-- Designed for repeatable analysis of learning gains, retention, misconception reduction, engagement and subgroup outcomes.
-- Stack: `Python`, `agent simulation`, `statistical analysis`, `education AI`.
-
+<a id="project-coppercoreai"></a>
 ### CopperCoreAI — Geospatial AI / full-stack industry project
-**Private company project · OreFox**
+**Private company project · OreFox**  
+**Why it matters:** demonstrates professional industry work on spatial-data systems, AI-assisted geospatial workflows and production-style Django/PostGIS engineering.  
+**Stack:** `Django` · `PostgreSQL` · `PostGIS` · `GeoPandas` · `Rasterio` · `Celery` · `scikit-learn` · `TensorFlow`
 
-A professional geospatial AI web system built around spatial data workflows, PostGIS and ML-assisted analysis.
-
-- Worked on a production-style Django/PostGIS application for geospatial data processing and AI-assisted insights.
-- Integrated backend workflows, database setup, spatial extensions and ML/data-science dependencies.
-- Strengthened experience with industry codebases, setup reproducibility, data-heavy systems and full-stack delivery.
-- Stack: `Django`, `PostgreSQL`, `PostGIS`, `GeoPandas`, `Rasterio`, `Celery`, `scikit-learn`, `TensorFlow`.
-
-> Source code is private because this was company work. I can discuss architecture, responsibilities and outcomes without exposing confidential implementation details.
-
+<a id="project-ts10-healer"></a>
 ### ts10_Healer — AI-powered admissions advisory platform
-**Private company project · Tensoract**
+**Private company project · Tensoract**  
+**Why it matters:** turns AI Q&A/advisory ideas into a school-facing admissions workflow for student profile collection, subject-combination analysis and admin tooling.  
+**Stack:** `Python` · `JavaScript` · `HTML/CSS` · `Docker` · `AI advisory workflow`
 
-An AI-assisted admissions and subject-combination advisory system for Vietnamese high-school students and school administrators.
-
-- Built around student profile collection, subject-combination analysis and admissions-management workflows.
-- Uses a web application architecture with Python backend services, HTML/JS frontend layers and Docker-based deployment.
-- Focused on turning AI guidance into a practical school-facing product workflow.
-- Stack: `Python`, `JavaScript`, `HTML/CSS`, `Docker`, `AI Q&A / advisory workflow`.
-
-> Source code is private. The project is highlighted here only at product/architecture level.
-
+<a id="project-cow-system"></a>
 ### Cattle Farm Management System — Business operations web app
-**Private business project · small cattle farm in Vietnam**
+**Private business project · small cattle farm in Vietnam**  
+**Why it matters:** a real business operations platform replacing spreadsheet-heavy workflows for inventory, cattle lots, finance, customer cota settlement, reporting and role-based usage.  
+**Stack:** `Django REST Framework` · `PostgreSQL` · `React` · `TypeScript` · `Docker` · `ReportLab`
 
-A private operations platform built for a small cattle-farm business in Vietnam, covering inventory, cattle lots, finance, customer cota settlement, reporting and role-based workflows.
+<a id="project-eventapp"></a>
+### EventApp — Event management web app
+**Public repo:** [healerHK/EventApp](https://github.com/healerHK/EventApp)  
+**Why it matters:** compact full-stack web app showing authentication, roles, event CRUD, public browsing, booking flows, category filtering and Laravel feature tests.  
+**Stack:** `Laravel` · `PHP` · `Blade` · `Vite` · `Tailwind CSS` · `SQLite` · `PHPUnit`
 
-- Built a Dockerized full-stack app with Django REST Framework, PostgreSQL, React, TypeScript and PDF reporting.
-- Designed around real business workflows used by a farm operator: lot management, warehouse movement, finance records, dashboard/reporting and customer settlement.
-- Focused on replacing spreadsheet-heavy processes with a maintainable internal web system for non-technical business users.
-- Stack: `Django`, `DRF`, `PostgreSQL`, `React`, `TypeScript`, `Docker`, `ReportLab`.
-
-> Source code and business data are private. The project is presented here at product, workflow and technical-stack level only.
-
-### EventApp — Simple event management web app
-**Public personal project**
-
-A lightweight full-stack web application project focused on event-management workflows and modern frontend tooling.
-
-- Demonstrates practical web application structure, routing, UI work and build setup.
-- Useful as a smaller project showing breadth beyond AI-only systems.
-- Stack: `Laravel`, `Vite`, `Tailwind CSS`, `JavaScript`.
-
-### Face Detect — Smart-home IoT camera experiment
-**Public personal project**
-
-A computer-vision experiment for camera-based face detection, designed around smart-home / Raspberry Pi style use cases.
-
-- Explores practical AI/vision integration for home automation and edge-device workflows.
-- Relevant to IoT, camera input, lightweight inference and Raspberry Pi 5 experimentation.
-- Stack: `Python`, `OpenCV / computer vision`, `IoT`, `Raspberry Pi`.
+<a id="project-face-detect"></a>
+### Face Detect IoT — Smart-home camera experiment
+**Public repo:** [healerHK/Face_detect](https://github.com/healerHK/Face_detect)  
+**Why it matters:** practical computer-vision experiment for camera-based face detection, smart-home/IoT workflows and Raspberry Pi 5 style edge-device exploration.  
+**Stack:** `Python` · `OpenCV` · `face_recognition` · `pyttsx3` · `IoT` · `Raspberry Pi`
 
 ## Technical toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/PostGIS-0f172a?style=for-the-badge&logo=postgresql&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logo=semanticweb&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/ChromaDB-0f172a?style=for-the-badge&logoColor=f472b6" />
-  <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-0f172a?style=for-the-badge&logo=raspberrypi&logoColor=f43f5e" />
-</p>
+### Programming Languages
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `C/C++` · `SQL`
+
+### AI & Machine Learning
+`Large Language Models (LLMs)` · `Retrieval-Augmented Generation (RAG)` · `Agentic AI` · `Prompt Engineering` · `Vector Databases (ChromaDB)` · `Knowledge Graphs` · `TensorFlow` · `Keras` · `scikit-learn` · `CNN` · `Random Forest`
+
+### Backend Development
+`FastAPI` · `Django` · `REST APIs` · `Laravel` · `HTMX`
+
+### Frontend Development
+`React` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript`
+
+### Databases
+`PostgreSQL` · `PostGIS` · `MySQL` · `ChromaDB`
+
+### DevOps & Cloud
+`Docker` · `Kubernetes` · `Git` · `Redis` · `Celery` · `AWS` · `Azure`
+
+### Research & Academic Tools
+`Literature Review` · `Academic Writing` · `IEEE Formatting` · `Citation Management` · `Obsidian Knowledge Graph` · `PyMuPDF`
+
+### Tools
+`VS Code` · `GitHub` · `Postman` · `Google AI Studio` · `OpenAI API` · `Gemini API`
+
+## Contribution dashboard
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=healerHK&theme=radical&hide_border=true&background=0D1117&ring=F43F5E&fire=F97316&currStreakLabel=F472B6&sideLabels=22D3EE&dates=94A3B8" alt="GitHub streak summary" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=healerHK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub stats" width="48%" />
+</div>
 
 ## Confidentiality note
 
