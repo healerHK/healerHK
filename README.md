@@ -37,56 +37,28 @@ I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into prac
 
 ### Core languages
 <p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+  <img src="./assets/toolbox/core-languages.svg" alt="Python, TypeScript, JavaScript, PHP and SQL" />
 </p>
 
 ### AI engineering
 <p>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=semanticweb&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=googlegemini&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=sparkfun&logoColor=f472b6" />
-  <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Knowledge%20Graphs-111827?style=for-the-badge&logo=obsidian&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
+  <img src="./assets/toolbox/ai-engineering.svg" alt="LLMs, RAG, Agentic AI, Prompt Engineering, ChromaDB, Knowledge Graphs, TensorFlow and scikit-learn" />
 </p>
 
 ### Full-stack development
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=postman&logoColor=ff6c37" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572b6" />
+  <img src="./assets/toolbox/full-stack-development.svg" alt="FastAPI, Django, Laravel, REST APIs, React, Tailwind CSS, HTML5 and CSS3" />
 </p>
 
 ### Data, DevOps & tools
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/PostGIS-111827?style=for-the-badge&logo=postgresql&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479a1" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=dc382d" />
-  <img src="https://img.shields.io/badge/Celery-111827?style=for-the-badge&logo=celery&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=ff6c37" />
+  <img src="./assets/toolbox/data-devops-tools.svg" alt="PostgreSQL, PostGIS, MySQL, Docker, Git, Redis, Celery, VS Code, GitHub and Postman" />
 </p>
 
 ## Contribution dashboard
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=healerHK&theme=radical&hide_border=true&background=0D1117&ring=F43F5E&fire=F97316&currStreakLabel=F472B6&sideLabels=22D3EE&dates=94A3B8" alt="GitHub streak summary" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=healerHK&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="./assets/profile/contribution-dashboard.svg" alt="GitHub activity snapshot" width="100%" />
 </div>
 
 ## Confidentiality note
