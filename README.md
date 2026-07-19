@@ -52,7 +52,7 @@ I'm a dev from the Gen Z generation who enjoys turning ambitious ideas into prac
 
 ### Data, DevOps & tools
 <p>
-  <img src="./assets/toolbox/data-devops-tools.svg" alt="PostgreSQL, PostGIS, MySQL, Docker, Git, Redis, Celery, VS Code, GitHub and Postman" />
+  <img src="./assets/toolbox/data-devops-tools.svg" alt="PostgreSQL, PostGIS, MySQL, Docker, Git, Redis, Celery, VS Code and GitHub" />
 </p>
 
 ## Contribution dashboard
